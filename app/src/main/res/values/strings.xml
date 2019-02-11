@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="order">Orders</string>
+    <string name="name">Name :</string>
+    <string name="Email">Email :</string>
+    <string name="quantity">Quantity</string>
+    <string name="price">Price</string>
+    <string name="plus"> + </string>
+    <string name="minus"> - </string>
+    <string name="choco">Chocolate</string>
+    <string name="crream">Tripped Cream</string>
+    <string name="Cost"> Cost Of Single Cup :</string>
+    <string name="submit1">Order Now!</string>
+    <string name="getUserName">Enter Your Name</string>
+    <string name="getMailId">Enter Your Mail ID</string>
+    <string name="init">1</string>
+    <string name="getNUM">Enter Your Number</string>
+    <string name="submit">Place Your Order</string>
+    <string name="ordersumma">Your Order Summary</string>
+
+</resources>
